@@ -3,6 +3,8 @@
 
 织网不仅仅是一款App，它还是以CRM和BPM为核心，覆盖市场、销售、服务、财务、生产、HR等企业核心业务的企业移动应用开放平台。
 
+织网后端 powered by e3js.org
+
 ![消息](http://wiki.huihoo.com/images/thumb/2/2a/Zhiwang-20151229-1.jpg/551px-Zhiwang-20151229-1.jpg)
 
 ![工作](http://wiki.huihoo.com/images/thumb/9/97/Zhiwang-20151229-2.png/613px-Zhiwang-20151229-2.png)
